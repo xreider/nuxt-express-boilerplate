@@ -21,8 +21,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "nuxt": "^2.14.12",
-    "nuxt-socket-io": "^1.1.13",
     "socket.io": "^3.1.0",
-    "vue-socket.io": "^3.0.10"
   }
 }
